@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+85040a3c6bb7c4a54bfa2ff87a4c3dd5 ../src/Modules/demo/modinfo.yaml
+bd9c93d6f00662162e81e650460259ba CMakeFiles/jvpkg
+663133dcce00b5a3e5a1a92f9d031aa6 CMakeFiles/modinfo_demo

@@ -1,0 +1,6 @@
+/home/sumil/demo/jvpkg/modules/Vimaan/demo/demo.C
+/home/sumil/demo/jvpkg/modules/Vimaan/demo/screenshot1.png
+/home/sumil/demo/jvpkg/modules/Vimaan/demo/icon.png
+/home/sumil/demo/jvpkg/modules/Vimaan/demo/postinstall
+/home/sumil/demo/jvpkg/modules/Vimaan/demo/demo.so
+/home/sumil/demo/jvpkg/share/README.txt

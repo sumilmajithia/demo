@@ -1,0 +1,6 @@
+/jevois/modules/Vimaan/demo/demo.C
+/jevois/modules/Vimaan/demo/screenshot1.png
+/jevois/modules/Vimaan/demo/icon.png
+/jevois/modules/Vimaan/demo/postinstall
+/jevois/modules/Vimaan/demo/demo.so
+/jevois/share/README.txt

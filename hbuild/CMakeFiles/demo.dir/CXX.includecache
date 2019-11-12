@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sumil/demo/src/Modules/demo/demo.C
+jevois/Core/Module.H
+-
+jevois/Image/RawImageOps.H
+-
+

@@ -1,0 +1,9 @@
+/home/sumil/demo/pbuild/CMakeFiles/install/strip.dir
+/home/sumil/demo/pbuild/CMakeFiles/install/local.dir
+/home/sumil/demo/pbuild/CMakeFiles/install.dir
+/home/sumil/demo/pbuild/CMakeFiles/demo.dir
+/home/sumil/demo/pbuild/CMakeFiles/jvpkg.dir
+/home/sumil/demo/pbuild/CMakeFiles/modinfo_demo.dir
+/home/sumil/demo/pbuild/CMakeFiles/edit_cache.dir
+/home/sumil/demo/pbuild/CMakeFiles/rebuild_cache.dir
+/home/sumil/demo/pbuild/CMakeFiles/list_install_components.dir
